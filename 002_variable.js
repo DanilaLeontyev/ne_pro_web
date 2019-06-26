@@ -7,3 +7,4 @@ y = 'newY';
 
 // Error: const can`t change
 //z = 'newZ'; 
+console.log(1 / 0);

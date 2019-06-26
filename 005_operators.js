@@ -1,5 +1,5 @@
-let unarPlus = 2 + 4; // 6
-let unarNeg = 4 - 3; // 1
+let plus = 2 + 4; // 6
+let neg = 4 - 3; // 1
 let concat = 'some ' + 'value'; // some value
 let multiplication = 5 * 5; // 25
 let division = 10 / 5; // 2
